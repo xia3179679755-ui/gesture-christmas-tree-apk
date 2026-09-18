@@ -6,27 +6,39 @@
 
 ## 直接安装
 
-1. 在本页下载 [`gesture-christmas-tree.apk`](gesture-christmas-tree.apk)。
+1. 在本页下载 [gesture-christmas-tree.apk](gesture-christmas-tree.apk)。
 2. 将 APK 传到 Android 手机并打开。
 3. 如果系统提示“禁止安装未知来源应用”，只为当前使用的文件管理器或浏览器允许一次“安装未知应用”。
 4. 安装完成后打开应用，先阅读教程，再点击进入主界面。
 
 APK 信息：
 
-- 应用包名：`com.codex.particlechristmastree`
-- 版本：`1.0 (versionCode 1)`
+- 应用包名：com.codex.particlechristmastree
+- 版本：1.0 (versionCode 1)
 - 最低 Android 版本：Android 7.0（API 24）
 - APK 大小：约 18.9 MB
-- SHA-256：`7A0AC1034E41E1F98D624C520855BCFC7644F2C27F21BEC99F413EAE3BA1139A`
+- SHA-256：7A0AC1034E41E1F98D624C520855BCFC7644F2C27F21BEC99F413EAE3BA1139A
 
 ## 应用功能
 
 - 启动时显示中文使用教程，点击“进入应用”后进入圣诞树。
-- 三个状态按钮：`岁岁念念`、`念念岁岁`、`想念的每一天`。
+- 三个状态按钮：岁岁念念、念念岁岁、想念的每一天。
 - 支持触摸拖动旋转圣诞树，按钮可切换不同树形状态。
 - 可按需启用摄像头手势控制；只有点击“启用摄像头手势”后才申请摄像头权限。
 - 可导入照片并保存在应用私有空间中，重启应用后仍可使用。
 - 支持自动、高画质、均衡、省电流畅等画质选项。
+
+## 应用展示
+
+| 中文教程页 | 圣诞树聚合状态 |
+|:---:|:---:|
+| <img src="./tutorial.png" alt="中文教程页" width="280"> | <img src="./tree-main.png" alt="圣诞树聚合状态" width="420"> |
+
+### 圣诞树散开状态
+
+<p align="center">
+  <img src="./tree-scatter.png" alt="圣诞树散开状态" width="520">
+</p>
 
 ## 权限说明
 
@@ -42,7 +54,7 @@ APK 信息：
 
 ### 提示签名冲突或无法覆盖旧版本
 
-先卸载手机上旧的测试版 `com.codex.particlechristmastree`，再安装本页 APK。卸载会清除该应用保存的照片。
+先卸载手机上旧的测试版 com.codex.particlechristmastree，再安装本页 APK。卸载会清除该应用保存的照片。
 
 ### 应用启动后黑屏或停在启动页
 
